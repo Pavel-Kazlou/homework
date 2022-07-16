@@ -5,6 +5,7 @@ import java.util.Scanner;
 // 4.2
 
 public class AverageNumber {
+    //Добавил в Git
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
